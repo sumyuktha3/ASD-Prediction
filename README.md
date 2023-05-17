@@ -6,11 +6,11 @@ Autistic Spectrum Disorder (ASD) refers to a group of developmental disorders th
 
 ## OBJECTIVE
 
-# 1> 
+#
 The objective for autism prediction using KNN machine learning algorithm is to build a predictive model that can accurately classify individuals as either having autism or not based on a set of input features.
-# 2>
+# 
 KNN (K-Nearest Neighbors) is a supervised machine learning algorithm that can be used for classification tasks. It works by finding the K-nearest neighbors to a given data point and classifying it based on the majority class of those neighbors. 
-# 3>
+#
 To apply KNN for autism prediction, we would need to collect data on individuals with and without autism and select relevant features that are likely to be predictive of autism. Examples of such features could include age, gender, family history of autism, social interaction skills, communication skills, and repetitive behaviors.
-# 4>
+#
 Once we have collected and pre-processed the data, we can train a KNN model on a subset of the data and test its performance on a separate validation set. The model's accuracy can then be evaluated using metrics such as precision, recall, and F1 score. The goal is to achieve a high accuracy rate so that the model can be used to predict autism in new individuals with a high degree of confidenc
